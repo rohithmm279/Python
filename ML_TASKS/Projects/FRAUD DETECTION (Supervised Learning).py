@@ -1,5 +1,5 @@
 # ============================================================
-# PROJECT 1 — FRAUD DETECTION (Supervised Learning)
+# PROJECT 2 — FRAUD DETECTION (Supervised Learning)
 # 3 Models: Logistic Regression, Random Forest, XGBoost
 # ============================================================
 
